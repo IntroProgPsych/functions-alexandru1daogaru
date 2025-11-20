@@ -10,3 +10,10 @@
 # Output: 25
 
 # Write your code here:
+
+
+number = int(input("Type a number"))
+def square(number):
+    return number*number
+
+print(square(number))
